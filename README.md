@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @ruan-molinari
-- 👀 I’m interested in computers as a whole
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on projects that envision to change the way people experience life
+computer 💻 
 
-- 📫 How to reach me:
--   Linkedin: https://www.linkedin.com/in/ruan-molinari/
--   Smartr: https://www.smartr.me/me/ruang..molinari
+Linkedin: https://www.linkedin.com/in/ruan-molinari/
 
 <!---
 ruan-molinari/ruan-molinari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
