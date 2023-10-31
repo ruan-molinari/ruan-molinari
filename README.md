@@ -1,6 +1,5 @@
 computer 💻 
 
-Linkedin: https://www.linkedin.com/in/ruan-molinari/
 
 <!---
 ruan-molinari/ruan-molinari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
